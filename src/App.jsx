@@ -13,6 +13,7 @@ function App() {
   return (
     <div className=' p-5'>
       <h1 className='text-2xl text-center '>This is my Todo App</h1>
+      <img className='flex  size-40 justify-center 'src="https://play-lh.googleusercontent.com/92xIZAW-mdwucFX1v8kyTXlLVgZfLczHv8XCVOH1tFc0M3cTRI4q9qJLUM96PqCrgWjc" alt="" />
       <div className=' w-100 m-auto p-5'>
         <input
           onChange={(e) => {
